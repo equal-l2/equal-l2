@@ -3,7 +3,7 @@ I'm an undergraduate student majoring in CS.
 
 I'm good at:  
 - Rust 🦀 (my favourite language, plenty of experience as a hobby, 3 months of internship experience.)
-- C++ 🪄(my ex-favourite, one year of part-time work experience)
+- C++ 🪄(my ex-favourite, plenty of experience as a hobby, one year of part-time work experience)
 - Google-fu (always helping friends Google)
 - resolving others' trouble (not good at resolving my own, unfortunately)
 
