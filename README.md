@@ -1,3 +1,5 @@
+**NOTE: The information below is outdated. (e.g. I'm now employed)**
+
 I'm an undergraduate student majoring in CS.  
 (I majored in physics for four years though never graduated)  
 
